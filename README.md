@@ -1,1 +1,2 @@
-# webpack
+# npm i 
+# npx webpack
